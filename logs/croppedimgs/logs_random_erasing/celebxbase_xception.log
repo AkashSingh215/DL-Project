@@ -1,0 +1,52 @@
+
+Model:xception BatchSize:16 lr:0.000200
+epoch:000 batch:003000 loss:0.15305 avgloss:0.40359
+AUC:0.947106 TPR_2:0.448086 TPR_3:0.169968 TPR_4:0.062681 Celeb-synthesis
+
+Model:xception BatchSize:16 lr:0.000200
+epoch:000 batch:003000 loss:0.05226 avgloss:0.18527
+AUC:0.964841 TPR_2:0.516076 TPR_3:0.225450 TPR_4:0.124677 Celeb-synthesis
+epoch:000 batch:006000 loss:0.15798 avgloss:0.16685
+AUC:0.987051 TPR_2:0.759632 TPR_3:0.407988 TPR_4:0.253545 Celeb-synthesis
+epoch:000 batch:009000 loss:0.08727 avgloss:0.15394
+AUC:0.990226 TPR_2:0.814780 TPR_3:0.531787 TPR_4:0.289173 Celeb-synthesis
+epoch:000 batch:012000 loss:0.05505 avgloss:0.14228
+AUC:0.990232 TPR_2:0.818542 TPR_3:0.606844 TPR_4:0.401940 Celeb-synthesis
+epoch:000 batch:015000 loss:0.05478 avgloss:0.13380
+AUC:0.992217 TPR_2:0.858850 TPR_3:0.668631 TPR_4:0.549364 Celeb-synthesis
+epoch:000 batch:018000 loss:0.21969 avgloss:0.12629
+AUC:0.993460 TPR_2:0.861501 TPR_3:0.629878 TPR_4:0.479741 Celeb-synthesis
+epoch:000 batch:021000 loss:0.09410 avgloss:0.12014
+AUC:0.993485 TPR_2:0.866258 TPR_3:0.680680 TPR_4:0.540580 Celeb-synthesis
+epoch:000 batch:024000 loss:0.01047 avgloss:0.11528
+AUC:0.992215 TPR_2:0.823914 TPR_3:0.566070 TPR_4:0.369267 Celeb-synthesis
+epoch:000 batch:027000 loss:0.10076 avgloss:0.11096
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+epoch:000 batch:003000 loss:0.00924 avgloss:0.08510
+AUC:0.990387 TPR_2:0.802388 TPR_3:0.547141 TPR_4:0.422751 Celeb-synthesis
+epoch:000 batch:006000 loss:0.12073 avgloss:0.08208
+AUC:0.992187 TPR_2:0.857404 TPR_3:0.682764 TPR_4:0.580498 Celeb-synthesis
+epoch:000 batch:009000 loss:0.10080 avgloss:0.07966
+AUC:0.993104 TPR_2:0.844103 TPR_3:0.544700 TPR_4:0.333624 Celeb-synthesis
+epoch:000 batch:012000 loss:0.04440 avgloss:0.07742
+AUC:0.993752 TPR_2:0.876465 TPR_3:0.670753 TPR_4:0.547397 Celeb-synthesis
+epoch:000 batch:015000 loss:0.01948 avgloss:0.07593
+AUC:0.994375 TPR_2:0.881029 TPR_3:0.691867 TPR_4:0.529533 Celeb-synthesis
+epoch:000 batch:018000 loss:0.25230 avgloss:0.07617
+AUC:0.994128 TPR_2:0.866258 TPR_3:0.676591 TPR_4:0.535690 Celeb-synthesis
+epoch:000 batch:021000 loss:0.02952 avgloss:0.07577
+AUC:0.995600 TPR_2:0.902834 TPR_3:0.731677 TPR_4:0.552590 Celeb-synthesis
+epoch:000 batch:024000 loss:0.04054 avgloss:0.07557
+AUC:0.993977 TPR_2:0.860677 TPR_3:0.627383 TPR_4:0.452136 Celeb-synthesis
+epoch:000 batch:027000 loss:0.03537 avgloss:0.07488
+AUC:0.995924 TPR_2:0.906550 TPR_3:0.728785 TPR_4:0.556835 Celeb-synthesis
+epoch:000 batch:030000 loss:0.04570 avgloss:0.07429
+AUC:0.995898 TPR_2:0.913516 TPR_3:0.723794 TPR_4:0.548276 Celeb-synthesis
+epoch:000 batch:033000 loss:0.05737 avgloss:0.07353
+AUC:0.995922 TPR_2:0.910748 TPR_3:0.688983 TPR_4:0.326720 Celeb-synthesis
+epoch:001 batch:036000 loss:0.03320 avgloss:0.07296
+AUC:0.994796 TPR_2:0.875447 TPR_3:0.653441 TPR_4:0.450535 Celeb-synthesis
+epoch:001 batch:039000 loss:0.03663 avgloss:0.07234

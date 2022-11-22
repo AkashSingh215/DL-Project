@@ -1,0 +1,4 @@
+
+Model:xception BatchSize:32 lr:0.000200
+epoch:000 batch:003000 loss:0.22311 avgloss:0.47776
+AUC:0.900014 TPR_2:0.436625 TPR_3:0.244123 TPR_4:0.120712 validset

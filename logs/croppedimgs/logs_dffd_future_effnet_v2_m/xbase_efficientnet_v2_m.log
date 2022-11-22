@@ -1,0 +1,26 @@
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:8 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:32 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:32 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:8 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:32 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200
+
+Model:efficientnet_v2_m BatchSize:16 lr:0.000200

@@ -1,0 +1,4 @@
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:4 lr:0.000200
