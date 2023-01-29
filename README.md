@@ -7,4 +7,4 @@ This project is done on the paper Representative Forgery Mining for Deep Fake De
     FaceForencics++ : https://github.com/ondyari/FaceForensics
   
 2. Read readme_steps.txt to see what & how we did.
-3. Read the report DL_Project.pdf to get overall idea what we did.
+3. Read the report DL_Project.pdf to get overall idea of what we did.
